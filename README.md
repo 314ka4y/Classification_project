@@ -223,9 +223,34 @@ Car crashes per month
 Car crashes per month with injuries
 <img src="img/Car_crasheswithinjuries_per_month.png" />
 
+Injuries during the day
+<img src="img/Injuries_time_of_day.png" />
+
+Injuries traffic control devices
+<img src="img/Injuries_traffic control.png" />
+
+Injuries on different road types
+<img src="img/Injuries_road_types.png" />
+
 Crash map
 <img src="img/crash_map.png" />
 
 Injuries map
 <img src="img/injuries_map.png" />
 
+#### Modeling
+
+performance of different models with different strategies against imbalance problem
+ <img src="img/Imbalance_problem.png" />
+
+Final model selection after hyperparameters tuning
+<img src="img/Final_model_list.png" />
+
+Final model confusion matrix
+<img src="img/confusion_matrix.png" />
+
+Main contributors to car crash
+<img src="img/Main_contributors.png" />
+
+Main preventive factors from car crash
+<img src="img/Main_preventive_factors.png" />
