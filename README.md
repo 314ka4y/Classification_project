@@ -216,5 +216,16 @@ See the full analysis in the [Jupyter Notebook](https://github.com/314ka4y/Class
 # Results:
 
 #### Data Exploration
+
 Car crashes per month
 <img src="img/Car_crashes_per_month.png" />
+
+Car crashes per month with injuries
+<img src="img/Car_crasheswithinjuries_per_month.png" />
+
+Crash map
+<img src="img/crash_map.png" />
+
+Injuries map
+<img src="img/injuries_map.png" />
+
